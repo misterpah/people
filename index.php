@@ -1,6 +1,7 @@
 <?php
 
 // Independent configuration
+require 'password_hash.php';
 require 'medoo.min.php';
 require 'connection.php';
 require 'support_functions.php';
